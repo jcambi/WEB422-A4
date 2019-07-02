@@ -23,6 +23,7 @@ class App extends Component {
     return (
       <Switch>
         <Route exact path="/" component={Overview} />
+        <Route exact path="/WEB422-A4" component={Overview} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/teams" component={Teams} />
         <Route exact path="/employees" component={Employees} />
