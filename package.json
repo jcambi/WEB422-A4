@@ -5,7 +5,7 @@
   "homepage": "https://jcambi.github.io/WEB422-A4/",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
